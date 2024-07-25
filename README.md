@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedshaheer01&label=Profile%20views&color=0e75b6&style=flat" alt="syedshaheer01" /> </p>
 
 
-- 🌱 I’m currently learning **React native / Flutter**
+- 🌱 I’m currently learning **React native
 
 - 👨‍💻 All of my projects are available at [syedshaheer01.github.io/My_Portfolio/](syedshaheer01.github.io/My_Portfolio/)
 

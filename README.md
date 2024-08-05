@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React native
 
-- 👨‍💻 All of my projects are available at [syedshaheer01.github.io/My_Portfolio/](syedshaheer01.github.io/My_Portfolio/)
+- 👨‍💻 All of my projects are available at [https://react-portfolio-rho-coral.vercel.app/)
 
 - 💬 Ask me about **Frontend/Backend/Mern stack**
 
